@@ -36,3 +36,7 @@
 ### 💻 My Editor
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br /><br />
+
+<p style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api?username=Saipatate&show_icons=true&theme=radical&count_private=true"></p>
