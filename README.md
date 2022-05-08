@@ -28,6 +28,11 @@
 
 <br />
 
+### 🖌 Design software I use
+
+![Figma](https://img.shields.io/badge/figma-2c2c2c?style=for-the-badge&logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/adobexd-450135?style=for-the-badge&logo=adobexd&logoColor=white)
+
 ### 💻 My Editor
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
