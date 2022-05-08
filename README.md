@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Saï 👋</h1>
+<h3 align="center">I'm Web Developer Frontend</h3>
 
-<!--
-**Saipatate/Saipatate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📚 Languages I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<br />
+
+### ⚙️ The frameworks and libraries I use
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![Next](https://img.shields.io/badge/next-111?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-38bdf8?style=for-the-badge&logo=tailwindCSS&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00d1b2?style=for-the-badge&logo=bulma&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-bf4080?style=for-the-badge&logo=sass&logoColor=white)
+
+<br />
+
+### 📁 The CMS I use
+
+![Strapi](https://img.shields.io/badge/strapi-8c4bff?style=for-the-badge&logo=strapi&logoColor=white)
+![Sanity](https://img.shields.io/badge/sanity-f03e2f?style=for-the-badge&logo=Sanity&logoColor=white)
+
+<br />
+
+### 💻 My Editor
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
