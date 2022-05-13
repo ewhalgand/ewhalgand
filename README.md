@@ -14,7 +14,6 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
-![Next](https://img.shields.io/badge/next-111?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-38bdf8?style=for-the-badge&logo=tailwindCSS&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00d1b2?style=for-the-badge&logo=bulma&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-bf4080?style=for-the-badge&logo=sass&logoColor=white)
