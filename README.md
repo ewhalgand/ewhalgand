@@ -2,4 +2,4 @@
 
 I'm Ewen Halgand, frontend developer
 
-[portfolio](https://ewha.fr) - [twitter](https://twitter.com/ewha_dev)
+[portfolio](https://ewha.fr) - [x](https://x.com/ewha_dev)
