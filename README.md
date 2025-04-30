@@ -6,13 +6,13 @@ I'm Ewen Halgand, Full Stack developer
 
 ##
 
-**Techno :**
+**Languages :**
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,astro,react,next,svelte,express" height="30" alt="techno logo"  />
 </div>
 
 ###
-**Database :**
+**Databases :**
 <div>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="30" alt="database logo"  />
 </div>
