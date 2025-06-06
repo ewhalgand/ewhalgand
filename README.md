@@ -8,7 +8,7 @@ I'm Ewen Halgand, Full Stack developer
 
 **Languages :**
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,astro,react,next,svelte,express" height="30" alt="techno logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,astro,react,next,svelte,express,golang" height="30" alt="techno logo"  />
 </div>
 
 ###
